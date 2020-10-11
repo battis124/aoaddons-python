@@ -19,3 +19,4 @@ env
 __pycache__
 albion-online-stats.cfg
 backend.log
+libpyaoaddons*
